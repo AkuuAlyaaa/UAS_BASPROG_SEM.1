@@ -27,4 +27,4 @@ Cara Menjalankan Program :
 
 # Berikut link repository github :
 
-https://github.com/AkuuAlyaaa/UAS_BASPROG_SEM.1/edit/main/README.md
+https://github.com/AkuuAlyaaa/UAS_BASPROG_SEM.1/blob/main/README.md
