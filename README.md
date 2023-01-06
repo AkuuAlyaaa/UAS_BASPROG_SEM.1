@@ -23,8 +23,12 @@ Cara Menjalankan Program :
 
 # Untuk penjelasan program berupa video youtube silahkan kunjungi link berikut :
 
-
+[Youtube Video](https://youtu.be/51O5-O3pvug)
 
 # Berikut link repository github :
 
 https://github.com/AkuuAlyaaa/UAS_BASPROG_SEM.1
+
+# Follow Instagram Me :
+
+[ @ a.sefhiaa_hiyahiya](https://instagram.com/a.sefhiaa_hiyahiya?igshid=ZDdkNTZiNTM=)
