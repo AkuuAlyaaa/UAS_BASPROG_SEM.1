@@ -1,7 +1,12 @@
-# Latihan MVC model view controller dengan python
+NAMA    : ALYA SEFHIA EKA PUTRI
 
-# Repository ini dibuat sebagai project uas teknik informatika UPB
+KELAS   : TI.22.B1
 
+NIM     : 312210108
+
+# Repository ini dibuat sebagai project UAS teknik informatika UPB
+
+# Latihan MVC Model View Controller dengan Python
 Membuat sebuah program nilai mahasiswa sederhana dengan menggunakan bahasa pemrograman python.
 
 Program ini juga dibuat sebagai tugas uas.
